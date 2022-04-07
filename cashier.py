@@ -22,7 +22,7 @@ def get_invoice_items(items):
 
     ...
 
-
+#new comment
 def get_total(items):
     # Items is a dictionary with a quantity and price key
     # Calculate the total of all items in the cart
